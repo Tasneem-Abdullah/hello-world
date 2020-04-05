@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615718747490",
+    "firebase_url": "https://salma1-f355c.firebaseio.com",
+    "project_id": "salma1-f355c",
+    "storage_bucket": "salma1-f355c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615718747490:android:e204daa08376fe1bf9803b",
+        "android_client_info": {
+          "package_name": "com.example.salma1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615718747490-536e053e4uergjgidf5fjvtql122pff9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16NKq4RMyoaIQk7RY_l3eqx1SyxRLw-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615718747490-536e053e4uergjgidf5fjvtql122pff9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
